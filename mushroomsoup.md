@@ -1,6 +1,7 @@
 #Ingredients
 -onions
+-garlic
 -mushrooms 
--chestnut mushrooms
+-button mushrooms
 
 #Instructions
